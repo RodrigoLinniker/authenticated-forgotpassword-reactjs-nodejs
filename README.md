@@ -3,7 +3,7 @@
  </div>
  
  <div align="center">
-Simples projeto de autenticação com forgot password utilizando reactjs, nodejs, Context API
+Simples projeto de autenticação JWT + forgot password, utilizando reactjs, nodejs, Context API
 </div>
 
 ## <h1><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="28px"/> Tecnologias</h1>
